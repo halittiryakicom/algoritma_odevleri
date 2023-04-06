@@ -2,7 +2,7 @@
 www.patika.dev
 
 
-Selection sort
+<h1>Selection sort</h1>
 [22,27,16,2,18,6] => selection sort
 
 selection sorta göre sıralamamızı yapmaya çalışacağız
@@ -28,7 +28,7 @@ notasyonda da katsayıları vs atarsak n^2 Big O notasyonumuza ulaşıyoruz
 3.adım => [2,3,4,5,7,9,8,15,6] 
 4.adım => [2,3,4,5,7,8,9,15,6] 
 
-Marge Sort
+<h1>Marge Sort</h1>
 [16,21,11,8,12,22] -> Merge Sort
 
 [16,21,11] [8,12,22]
@@ -43,7 +43,7 @@ burda 11 ile 8 karşılaştırılır sonra 8 11 şeklinde yazılır sonra 16 ile
 
 Big O >> ilk 2 ye bölünüyor o kısımdan logn geliyor sonra n elemanlı için n-1 sorgulama yapılıyor ordan da n geliyor çarpınca Big O notasyonumuz (nlogn) oluyor
 
-Binary Search Tree
+<h1>Binary Search Tree</h1>
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] ana kökümüzü 5 olarak seçelim [0,1,2,3,4] = x bu kökümüzün sol tarafı [6,7,8,9] = y bu da sağ tarafı
 
 şimdi x için bakalım 2 yi kök seçelim
